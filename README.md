@@ -14,7 +14,9 @@
 - 👋🏻 Hi I am Mohammad Qureshi 
 
 - 🔭 I’m currently looking for internship
-
+  
+- 💻 I am a fullstack developer 
+  
 - ❓ You can Email Me Through [Here](mohammad.s.qureshi14@gmail.com)
 
 
