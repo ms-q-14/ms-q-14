@@ -17,7 +17,7 @@
   
 - 💻 I am a fullstack developer 
   
-- ❓ You can Email Me Through [Here](mohammad.s.qureshi14@gmail.com)
+- ❓ You can Email Me Through @ mohammad.s.qureshi14@gmail.com
 
 
 
