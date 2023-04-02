@@ -12,8 +12,6 @@
   <br/>  
   
 - 👋🏻 Hi I am Mohammad Qureshi 
-
-- 🔭 I’m currently looking for a summer/fall 2023 internship
   
 - 💻 I am a fullstack developer 
   
