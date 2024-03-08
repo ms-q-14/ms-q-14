@@ -1,6 +1,6 @@
 <h1 align="center"><b>Welcome to my Github </h1>
   <br/>  
-<!--     <br/>  
+    <br/>  
 
 <div align="center">
 
@@ -9,7 +9,7 @@
   
 </div>
 
-  <br/>   -->
+  <br/>  
   
 - 👋🏻 Hi I am Mohammad Qureshi 
   
